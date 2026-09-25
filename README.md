@@ -1,5 +1,8 @@
 Primer repositorio
 
 
-##Autor
+## Autor
 Adrián Domínguez
+
+## Remote repository
+GitHub
